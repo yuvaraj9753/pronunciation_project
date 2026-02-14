@@ -4,6 +4,6 @@ openai-whisper
 torch
 pronouncing
 ffmpeg-python
-setuptools>=65.0.0
+setuptools
 wheel
 
