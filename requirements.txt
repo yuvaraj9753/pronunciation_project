@@ -1,9 +1,8 @@
-streamlit
-pandas
-openai-whisper
-torch
-pronouncing
-ffmpeg-python
-setuptools
-wheel
-
+streamlit==1.22.0
+pandas==2.1.1
+openai-whisper==20230314
+torch==2.1.1
+pronouncing==0.2.0
+ffmpeg-python==0.2.0
+setuptools>=65.5.0
+wheel>=0.40.0
