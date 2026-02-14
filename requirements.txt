@@ -3,4 +3,5 @@ pandas
 openai-whisper
 torch
 pronouncing
-ffmpeg
+ffmpeg-python
+setuptools==68.2.2
