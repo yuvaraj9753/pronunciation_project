@@ -6,3 +6,4 @@ pronouncing
 ffmpeg-python
 setuptools>=65.0.0
 wheel
+
