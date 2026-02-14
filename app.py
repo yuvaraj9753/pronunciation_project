@@ -1,3 +1,8 @@
+import subprocess
+import sys
+
+# Ensure pkg_resources exists
+subprocess.check_call([sys.executable, "-m", "pip", "install", "--upgrade", "setuptools"])
 
 import os
 import tempfile
