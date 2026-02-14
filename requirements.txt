@@ -5,3 +5,4 @@ torch
 pronouncing
 ffmpeg-python
 setuptools==68.2.2
+wheel
