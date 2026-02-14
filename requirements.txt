@@ -1,0 +1,6 @@
+streamlit
+pandas
+openai-whisper
+torch
+pronouncing
+ffmpeg-python
