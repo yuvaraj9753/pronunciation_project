@@ -1,6 +1,7 @@
 streamlit
-pandas>=2.2.0
-torch>=2.3.0
-openai-whisper
+pandas
+openai-whisper==20230314
+torch
 pronouncing
 ffmpeg-python
+setuptools==68.2.2
