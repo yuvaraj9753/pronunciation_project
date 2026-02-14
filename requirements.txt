@@ -1,6 +1,6 @@
 streamlit
-pandas
+pandas>=2.2.0
+torch>=2.3.0
 openai-whisper
-torch
 pronouncing
 ffmpeg-python
